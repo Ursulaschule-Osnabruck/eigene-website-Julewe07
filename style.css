@@ -16,10 +16,21 @@ h5 {
     padding-bottom: 0;
     padding-top: .3rem;
 }
+.bg-light {
+    background-color: #f4f4f4!important;
+}
 footer{
     text-align: right;
+    
 }
 
 h3{
     font-size: 20px;
+}
+
+.kopf{
+    background-image: url(images/skyline.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
