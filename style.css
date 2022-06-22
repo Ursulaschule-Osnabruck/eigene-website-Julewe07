@@ -1,10 +1,25 @@
-h1{
+h1 {
     text-align: center;
 }
-#carouselExampleCaptions{
-    
+
+#carouselExampleCaptions {
+    text-align: center;
 }
 
-h5{
+h5 {
     color: black;
+}
+
+.carousel-caption {
+    background-color: rgb(255, 255, 255, 0.7);
+    bottom:2rem;
+    padding-bottom: 0;
+    padding-top: .3rem;
+}
+footer{
+    text-align: right;
+}
+
+h3{
+    font-size: 20px;
 }
